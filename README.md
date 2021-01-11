@@ -38,6 +38,6 @@
 
 [youtube]: https://www.youtube.com/channel/UCb-5OjndhZqj1JISfhWK7zQ
 [twitter]: https://twitter.com/GayanChandula
-[linkedin]: www.linkedin.com/in/gayathchandula
+[linkedin]: https://linkedin.com/in/bawanthathilan
 [github]: https://github.com/Gayath1
 [instagram]: https://www.instagram.com/gayanchandula/
