@@ -31,7 +31,7 @@
 [<img align="left" alt=“MongoDB” width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />][youtube]
 [<img align="left" alt=“MongoDB” width="26px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />][youtube]
 [<img align="left" alt=“MongoDB” width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" />][youtube]
-[<img align="left" alt=“MongoDB” width="26px" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" />][youtube]
+[<img align="left" alt=“MongoDB” width="26px" src="https://fr.wikipedia.org/wiki/Fichier:Java_Logo.svg" />][youtube]
 [<img align="left" alt=“MongoDB” width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/javascript.svg" />][youtube]
 [<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
 
