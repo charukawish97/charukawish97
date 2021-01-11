@@ -26,7 +26,7 @@
 ### Languages and Tools:
 [<img align="left" alt=“React” width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />][youtube]
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
-[<img align="left" alt=“Nodejs” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />][youtube]
+[<img align="left" alt=“Nodejs” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />][youtube]
 [<img align="left" alt=“MongoDB” width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />][youtube]
 [<img align="left" alt=“MongoDB” width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />][youtube]
 [<img align="left" alt=“MongoDB” width="26px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />][youtube]
